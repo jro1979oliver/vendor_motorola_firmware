@@ -1,0 +1,4 @@
+FIRMWARE_IMAGES := \
+    bluetooth
+
+AB_OTA_PARTITIONS += $(FIRMWARE_IMAGES)
