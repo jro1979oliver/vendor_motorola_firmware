@@ -10,4 +10,4 @@ $(notdir \
 )
 endef
 
--include vendor/firmware/$(TARGET_DEVICE)/firmware.mk
+-include vendor/motorola/firmware/$(TARGET_DEVICE)/firmware.mk
